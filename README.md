@@ -7,11 +7,11 @@ Diacritic javascript module for cleaning or stripping a string of accents and re
 ## Node Installation
 
 ```bash
-npm install diacritic
+$ npm install diacritic
 ```
 
 ## Bower Installation
 
 ```bash
-bower install diacritic
+$ bower install diacritic
 ```
