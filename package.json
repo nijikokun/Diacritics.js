@@ -1,5 +1,5 @@
 {
-  "name": "diacritics",
+  "name": "diacritic",
   "version": "0.0.1",
   "description": "Removes accents / diacritics from strings, sentences, and paragraphs fast and effeciently.",
   "main": "diacritics.js",
