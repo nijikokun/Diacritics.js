@@ -15,3 +15,12 @@ $ npm install diacritic
 ```bash
 $ bower install diacritic
 ```
+
+## Usage
+
+```javascript
+var Diacritics = require('diacritic');
+
+// Internationalization
+console.log(Diacritics.clean("Iлｔèｒｎåｔïｏｎɑｌíƶａｔï߀ԉ"));
+```
