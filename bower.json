@@ -1,6 +1,6 @@
 {
   "name": "diacritic",
-  "main": "Diacritics.js",
+  "main": "diacritics.js",
   "version": "0.0.1",
   "authors": [
     "Nijiko Yonskai <nijikokun@gmail.com>"
